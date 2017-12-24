@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AlfredKit",
+        "repositoryURL": "git@github.com:satoshin21/AlfredKit.git",
+        "state": {
+          "branch": null,
+          "revision": "3fdf211c9cd89f0cbfaf577f6c69cfc3432a97b0",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Commandant",
+        "repositoryURL": "https://github.com/Carthage/Commandant.git",
+        "state": {
+          "branch": null,
+          "revision": "c281992c31c3f41c48b5036c5a38185eaec32626",
+          "version": "0.12.0"
+        }
+      },
+      {
+        "package": "Result",
+        "repositoryURL": "https://github.com/antitypical/Result.git",
+        "state": {
+          "branch": null,
+          "revision": "7477584259bfce2560a19e06ad9f71db441fff11",
+          "version": "3.2.4"
+        }
+      },
+      {
+        "package": "SWXMLHash",
+        "repositoryURL": "https://github.com/drmohundro/SWXMLHash.git",
+        "state": {
+          "branch": null,
+          "revision": "12496b370363034ccc919e1d72a99b9970b4941e",
+          "version": "4.2.5"
+        }
+      },
+      {
+        "package": "Toybox",
+        "repositoryURL": "git@github.com:giginet/Toybox.git",
+        "state": {
+          "branch": null,
+          "revision": "a020c486436870bcf58b376b661cad4c7b2998d2",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
